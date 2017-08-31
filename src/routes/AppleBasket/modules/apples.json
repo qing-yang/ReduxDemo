@@ -1,0 +1,24 @@
+{
+    "isPicking": false,
+    "newAppleId": 3,
+    "apples": [
+        {
+            "id": 0,
+            "weight": 233,
+            "isEaten": false,
+            "isRipening": false
+        },
+        {
+            "id": 1,
+            "weight": 235,
+            "isEaten": true,
+            "isRipening": false
+        },
+        {
+            "id": 2,
+            "weight": 256,
+            "isEaten": false,
+            "isRipening": false
+        }
+    ]
+}
